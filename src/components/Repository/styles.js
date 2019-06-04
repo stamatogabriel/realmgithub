@@ -4,6 +4,7 @@ export const Container = styled.View`
   padding: 20px;
   border-radius: 4px;
   background: #fff;
+  margin-top: 10px;
 `;
 
 export const Name = styled.Text`

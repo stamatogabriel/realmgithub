@@ -97,7 +97,7 @@ export default function Main() {
 
       <List
         keyboardShouldPersistTaps="handled"
-        data={[repositories]}
+        data={repositories}
         keyExtractor={item => String(item.id)}
         renderItem={({ item }) => (
           <Repository data={item} onRefresh={() => handleRefreshRepository(item)} />
