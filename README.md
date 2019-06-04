@@ -8,8 +8,7 @@
 - [Começando](#come%C3%A7ando)
   - [Pré-requisitos](#pr%C3%A9-requisitos)
   - [Instalação](#instala%C3%A7%C3%A3o)
-- [```](#)
-  - [Como funciona o aplicativo](#como-funciona-o-aplicativo)
+- [Como funciona o aplicativo](#como-funciona-o-aplicativo)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
